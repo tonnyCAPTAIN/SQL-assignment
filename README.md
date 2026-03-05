@@ -1,2 +1,2 @@
 # SQL-assignment
-SQL assignment question- LUX
+SQL assignment questions - LUX
